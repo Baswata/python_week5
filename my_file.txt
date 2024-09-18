@@ -1,0 +1,1 @@
+Python is a programming language used by many developers. This is because of its intergration and how easy it is to use. Let's learn about the different data types in python.
